@@ -1,0 +1,11 @@
+G:\D\LEARN\PROGRAMMING\C#\Networks Project\videoPro\videoPro\bin\x64\Debug\videoPro.exe
+G:\D\LEARN\PROGRAMMING\C#\Networks Project\videoPro\videoPro\bin\x64\Debug\videoPro.pdb
+G:\D\LEARN\PROGRAMMING\C#\Networks Project\videoPro\videoPro\bin\x64\Debug\Voice.dll
+G:\D\LEARN\PROGRAMMING\C#\Networks Project\videoPro\videoPro\bin\x64\Debug\WebCam_Capture.dll
+G:\D\LEARN\PROGRAMMING\C#\Networks Project\videoPro\videoPro\obj\x64\Debug\videoPro.csprojResolveAssemblyReference.cache
+G:\D\LEARN\PROGRAMMING\C#\Networks Project\videoPro\videoPro\obj\x64\Debug\videoPro.Choose_Peer.resources
+G:\D\LEARN\PROGRAMMING\C#\Networks Project\videoPro\videoPro\obj\x64\Debug\videoPro.Form1.resources
+G:\D\LEARN\PROGRAMMING\C#\Networks Project\videoPro\videoPro\obj\x64\Debug\videoPro.Properties.Resources.resources
+G:\D\LEARN\PROGRAMMING\C#\Networks Project\videoPro\videoPro\obj\x64\Debug\videoPro.csproj.GenerateResource.Cache
+G:\D\LEARN\PROGRAMMING\C#\Networks Project\videoPro\videoPro\obj\x64\Debug\videoPro.exe
+G:\D\LEARN\PROGRAMMING\C#\Networks Project\videoPro\videoPro\obj\x64\Debug\videoPro.pdb
